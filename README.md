@@ -1,4 +1,4 @@
-# Project Name
+# E-Learning
 
 ## Description
 Briefly describe your project here, outlining its purpose and core features.
